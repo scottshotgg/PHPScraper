@@ -2,8 +2,9 @@
 
 == This has been DEPRECATED ==
 == The project has been continued in Python as it is much more extendible and a more appropriate language  for the application ==
-
 https://github.com/scottshotgg/PythonScraper/
+
+
 
 This is a PHP Scraper for news.tj.
 
