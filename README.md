@@ -8,10 +8,10 @@ https://github.com/scottshotgg/PythonScraper/
 
 
 
+  
 
 
-
-
+  
 
 
 This is a PHP Scraper for news.tj.
